@@ -1,6 +1,6 @@
 {
   "name": "dotyml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Read values from a YAML file.",
   "main": "index.js",
   "bin": {
