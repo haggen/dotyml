@@ -1,0 +1,28 @@
+{
+  "name": "dotyml",
+  "version": "1.0.0",
+  "description": "Read values from a YAML file.",
+  "main": "index.js",
+  "bin": {
+    "dotyml": "./bin/dotyml"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yml",
+    "yaml",
+    "dot notation",
+    "cli"
+  ],
+  "author": "Arthur <arthur@corenzan.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haggen/dotyml"
+  },
+  "dependencies": {
+    "dot-component": "^0.1.1",
+    "yamljs": "^0.2.2"
+  }
+}
